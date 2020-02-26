@@ -48,6 +48,7 @@
           </div>
         </div>
       </form>
+      <div>results:</div>
     </div>
   </div>
 </template>
@@ -68,7 +69,7 @@ export default {
   background: linear-gradient(rgba(61, 61, 61, 0.5), rgba(88, 88, 88, 0.5)),
     url(https://www.elsetge.cat/myimg/f/14-144139_cloud-desktop-background-hd.jpg);
   /* background-size: auto; */
-  height: 900px;
+  height: 1000px;
   width: auto;
   background-repeat: no-repeat;
   background-position: 0px, 0px, 0px, 0px;
